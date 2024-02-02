@@ -1,13 +1,17 @@
 img {
-  width: 50%;
+  width: 85%;
 }
 
 article {
   float: left;
-  width: 40%;
+  width: 50%;
 }
 
 nav {
   float: left;
-  width: 60%;
+  width: 50%;
+}
+
+#myArticle{
+  padding: 25px;
 }
